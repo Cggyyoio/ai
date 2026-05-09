@@ -1,0 +1,5 @@
+# المتطلبات الإضافية لمساعد الدعم الذكي
+pyrogram==2.0.106
+tgcrypto==1.2.5
+google-generativeai==0.7.2
+aiohttp>=3.9.0
